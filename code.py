@@ -2,5 +2,5 @@
 
 
 def button():
-    """Return button."""
-    return "button"
+    """Return green button."""
+    return "greenbutton"
